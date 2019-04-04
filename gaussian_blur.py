@@ -7,7 +7,7 @@ img = cv2.imread(img_path)
 
 (h, w, _) = img.shape
 
-# what are these (5, 5) numbers?
+# how does (5, 5) affect the blur?
 gBlur = cv2.GaussianBlur(img, (5, 5), cv2.BORDER_DEFAULT)
 
 cv2.imshow("image", gBlur)
