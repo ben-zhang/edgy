@@ -1,0 +1,4 @@
+numpy
+scipy
+sklearn
+opencv-contrib-python
