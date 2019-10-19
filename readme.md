@@ -1,1 +1,1 @@
-# Implementing research papers in computer vision
+# Implementing research papers
